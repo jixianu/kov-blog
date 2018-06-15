@@ -1,8 +1,9 @@
 # kov-blog
+[v2版本正在开发当中...](https://github.com/Ma63d/kov-blog/tree/v2)
 
 > a blog platform built with vue, koa and mongo. 使用vue,koa和mongo搭建的博客页面和markdown语法的博客编写平台,自动保存草稿。
 
-博客预览地址:[http://chuckliu.me](http://chuckliu.me)
+博客预览地址:[https://chuckliu.me](https://chuckliu.me)
 ![博客](http://oddbl4fim.bkt.clouddn.com/QQ20160926-1@2x.png)
 ![后台](http://oddbl4fim.bkt.clouddn.com/QQ20160926-4.png)
 
